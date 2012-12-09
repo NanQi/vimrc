@@ -1,7 +1,8 @@
-redguardtoo's vimrc
+NanQi's vimrc
 ============
-* Author: Chen Bin
-* Github: git://github.com/redguardtoo/vimrc.git
+* Author: NanQi
+* Github: git://github.com/NanQi/vimrc.git
+* Forked: git://github.com/redguardtoo/vimrc.git
 * gvim on WIN32 works if you set the $HOME environment variable
 * NO Ruby dependency
 * Forked from  [vgod](https://github.com/vgod/vimrc).
